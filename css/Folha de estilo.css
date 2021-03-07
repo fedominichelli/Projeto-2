@@ -1,0 +1,60 @@
+h1 {
+    font-size: 100px;
+    float: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 0px;
+    left: 200px;
+}
+
+
+
+body{
+    background: dimgrey;
+    color: black;
+    
+}
+
+
+.corpo {
+    width: 960px;
+    margin: auto;
+}
+
+.conteudo {
+    display: table-cell;
+    float: right;
+   
+}
+.imagem {
+    width: 50px;
+    display: table-cell;
+    float: right;
+    
+    
+}
+
+.texto {
+    color: tan;
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    display: table-cell;
+    float: left;
+    width: auto;
+    position: relative;
+    margin-top: -250px;
+    margin-left: -150px;
+    margin-right: 500px;
+    
+}
+
+h2 {
+    font-family:'Times New Roman';
+} 
+
+h3{
+    float: right;
+    margin-right: 130px;
+    margin-top: 9px;
+    font-size: 15;
+}
